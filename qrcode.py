@@ -1,7 +1,7 @@
 import qrcode
 
 
-data = "https://www.primevideo.com/"
+data = "https://github.com/chirayu2107"
 
 qr = qrcode.QRCode(
     version=1,  
